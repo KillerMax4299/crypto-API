@@ -2,7 +2,7 @@
 
 ## Routes
 
-* **Homepage** [**link**](https://crypto-api-iwyr.onrender.com/)
+* **Homepage** [**link**](https://crypto-api-beryl.vercel.app/)
 
   `sample response`
   ```json
@@ -12,7 +12,7 @@
   }
   ```
 
-* **Top ten Results** [**link**](https://crypto-api-iwyr.onrender.com/top10)
+* **Top ten Results** [**link**](https://crypto-api-beryl.vercel.app/top10)
 
   `sample response`
 
